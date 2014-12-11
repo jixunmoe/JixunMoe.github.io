@@ -1,4 +1,5 @@
 .gr-head {
+	max-width: 100%;
 	border: 1px solid #aaa;
 	box-shadow: 4px 4px 10px -3px #aaa;
 }
